@@ -7,3 +7,117 @@
 [submodule "kohana-alphamail"]
 	path = kohana-alphamail
 	url = git://github.com/colkito/kohana-alphamail
+[submodule "kohana-multilang"]
+	path = kohana-multilang
+	url = git://github.com/shockiii/kohana-multilang
+[submodule "Kohana-CKEditor"]
+	path = Kohana-CKEditor
+	url = git://github.com/sfagnum/Kohana-CKEditor
+[submodule "googleapi-kohana"]
+	path = googleapi-kohana
+	url = git://github.com/pocesar/googleapi-kohana
+[submodule "facebook-kohana"]
+	path = facebook-kohana
+	url = git://github.com/pocesar/facebook-kohana
+[submodule "log-reader"]
+	path = log-reader
+	url = git://github.com/WinterSilence/log-reader
+[submodule "kohana-restful-api"]
+	path = kohana-restful-api
+	url = git://github.com/SupersonicAds/kohana-restful-api
+[submodule "kohana-translation"]
+	path = kohana-translation
+	url = git://github.com/WinterSilence/kohana-translation
+[submodule "twitter-kohana"]
+	path = twitter-kohana
+	url = git://github.com/pocesar/twitter-kohana
+[submodule "youtube-video"]
+	path = youtube-video
+	url = git://github.com/wwebfor/youtube-video
+[submodule "kohana_calendar"]
+	path = kohana_calendar
+	url = git://github.com/samwilson/kohana_calendar
+[submodule "kohana-charts"]
+	path = kohana-charts
+	url = git://github.com/ae0000/kohana-charts
+[submodule "kohana-cron"]
+	path = kohana-cron
+	url = git://github.com/cbandy/kohana-cron
+[submodule "Kohana-Facebook"]
+	path = Kohana-Facebook
+	url = git://github.com/zombor/Kohana-Facebook
+[submodule "grid"]
+	path = grid
+	url = git://github.com/vimofthevine/grid
+[submodule "paypal"]
+	path = paypal
+	url = git://github.com/shadowhand/paypal
+[submodule "kohana-sitemap"]
+	path = kohana-sitemap
+	url = git://github.com/ThePixelDeveloper/kohana-sitemap
+[submodule "kohana-phpexcel"]
+	path = kohana-phpexcel
+	url = git://github.com/dshovchko/kohana-phpexcel
+[submodule "kohana-search"]
+	path = kohana-search
+	url = git://github.com/evopix/kohana-search
+[submodule "kohana-api"]
+	path = kohana-api
+	url = git://github.com/managedit/kohana-api
+[submodule "Kohana-Google-Maps-Module"]
+	path = Kohana-Google-Maps-Module
+	url = git://github.com/solidsnake/Kohana-Google-Maps-Module
+[submodule "kohana-dependencies"]
+	path = kohana-dependencies
+	url = git://github.com/Zeelot/kohana-dependencies
+[submodule "Auto-Modeler"]
+	path = Auto-Modeler
+	url = git://github.com/zombor/Auto-Modeler
+[submodule "kohanut"]
+	path = kohanut
+	url = git://github.com/bluehawk/kohanut
+[submodule "kohana3-crud"]
+	path = kohana3-crud
+	url = git://github.com/d4rky-pl/kohana3-crud
+[submodule "pdfview"]
+	path = pdfview
+	url = git://github.com/shadowhand/pdfview
+[submodule "kohana-hybridauth"]
+	path = kohana-hybridauth
+	url = git://github.com/tchemineau/kohana-hybridauth
+[submodule "kohana-qrcode"]
+	path = kohana-qrcode
+	url = git://github.com/juanparati/kohana-qrcode
+[submodule "kohana-crud"]
+	path = kohana-crud
+	url = git://github.com/evulse/kohana-crud
+[submodule "kohana-bootstrap"]
+	path = kohana-bootstrap
+	url = git://github.com/digitaljohn/kohana-bootstrap
+[submodule "kohana-editool"]
+	path = kohana-editool
+	url = git://github.com/shockiii/kohana-editool
+[submodule "kohana-extjsdesktop"]
+	path = kohana-extjsdesktop
+	url = git://github.com/martinsbalodis/kohana-extjsdesktop
+[submodule "kohana-shop"]
+	path = kohana-shop
+	url = git://github.com/kiperz/kohana-shop
+[submodule "kohana-elfinder"]
+	path = kohana-elfinder
+	url = git://github.com/retio/kohana-elfinder
+[submodule "kohana-download"]
+	path = kohana-download
+	url = git://github.com/semiton/kohana-download
+[submodule "kohana-event"]
+	path = kohana-event
+	url = git://github.com/drewsonne/kohana-event
+[submodule "kohana-generate"]
+	path = kohana-generate
+	url = git://github.com/huanlong78/kohana-generate
+[submodule "kohana-phpadodb"]
+	path = kohana-phpadodb
+	url = git://github.com/bato3/kohana-phpadodb
+[submodule "kohana-gallery"]
+	path = kohana-gallery
+	url = git://github.com/zemlemer/kohana-gallery
