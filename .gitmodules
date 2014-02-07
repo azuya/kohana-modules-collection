@@ -1,0 +1,9 @@
+[submodule "kohana-autogenerate"]
+	path = kohana-autogenerate
+	url = git://github.com/felipebastosweb/kohana-autogenerate
+[submodule "Kohana-Codegen"]
+	path = Kohana-Codegen
+	url = git://github.com/Yahasana/Kohana-Codegen
+[submodule "kohana-alphamail"]
+	path = kohana-alphamail
+	url = git://github.com/colkito/kohana-alphamail
