@@ -121,3 +121,9 @@
 [submodule "kohana-gallery"]
 	path = kohana-gallery
 	url = git://github.com/zemlemer/kohana-gallery
+[submodule "kohana-twitter-bootstrap-generator"]
+	path = kohana-twitter-bootstrap-generator
+	url = git://github.com/nuhil/kohana-twitter-bootstrap-generator
+[submodule "Kohana-Plugin-System"]
+	path = Kohana-Plugin-System
+	url = git://github.com/Vheissu/Kohana-Plugin-System
